@@ -11,7 +11,7 @@ exports[`renders the NoConstellationsMessage when no data appears 1`] = `
       <h1
         className="display-4"
       >
-        Explore Constellations
+        I Love Constellations
       </h1>
       <p
         className="lead"
